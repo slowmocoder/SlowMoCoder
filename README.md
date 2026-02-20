@@ -1,4 +1,4 @@
-## Hi I'm 😴 LazzyCoderr 💻
+## Hi I'm 😴 SlowMoCoder 💻
 
 - 💻 Currently working on Flutter 💙 Dart 
 
@@ -6,7 +6,7 @@
 
 - :octocat: Start contributing to open source
 
-- 📚 Learn & explore new Tech stfuff every day 
+- 📚 Learn & explore new Tech stuff every day 
 
 - 😎 Moto : <strong>C</strong> for <strong>Contribution</strong> not <strike>Competition</strike>
 
@@ -18,10 +18,7 @@
 &nbsp;
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14155887/lazzycoderr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazzyCoderr&show_icons=true&theme=github_dark)](https://github.com/LazzyCoderr/github-readme-stats)
-&nbsp;&nbsp;
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LazzyCoderr&show_icons=true&theme=github_dark)
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LazzyCoderr&theme=github_dark)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlowMoCoder&theme=github_dark)
 
 ## 🧰 Languages and Tools
 <div>
